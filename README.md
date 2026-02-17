@@ -11,6 +11,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## 📊 My GitHub Contributions
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickysharma-prog&theme=react-dark)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vickysharma-prog&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
