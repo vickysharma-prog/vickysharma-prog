@@ -1,6 +1,21 @@
 # 💫 About Me:
-👋 Hi, I’m Vicky sharma—  passionately exploring the exciting intersection of Artificial Intelligence, Machine Learning, and Data Science and developer passionate about open-source and problem-solving.<br><br>💻 I work primarily with Python (Proficient), c++, Java, building things around data science, APIs, and automation using Pandas, NumPy, and modern tooling. I enjoy reading and contributing to real-world codebases and gradually improving systems through clean, well-documented code.<br><br>🌱 Currently focused on:<br>- Open-source contributions <br>- Writing production-quality Python<br>- Understanding large codebases and software design<br>- Data-driven problem solving<br><br>🚀 Interests:<br>Open Source • Backend Development • Data & Analytics • Developer Tools<br><br>📌 Always learning, always shipping, and always open to collaboration.<br>
+👋 Hi, I’m Vicky sharma—  passionately exploring the exciting intersection of Artificial Intelligence, Machine Learning, and Data Science and developer passionate about open-source and problem-solving.<br><br>💻 I work primarily with Python (Proficient), c++, Java, building things around data science, APIs, and automation using Pandas, NumPy, and modern tooling. I enjoy reading and contributing to real-world codebases and gradually improving systems through clean, well-documented code.<br><br>🌱 Currently focused on:<br>- Open-source contributions <br>- Writing production-quality Python<br>- Understanding large codebases and software design<br>- Data-driven problem solving<br><br>🚀 Interests:<br>Open Source • Backend Development • Data & Analytics • Developer Tools<br><br>📌 Always learning, always shipping, and passionate about **Machine Learning**, **Computer Vision**, and **Open Source**. always open to collaboration.<br>
 
+## 🔭 Currently:
+- Active contributor at [DeepForest](https://github.com/weecology/DeepForest) — ML for ecological research
+- Exploring object detection & image segmentation pipelines
+
+## 🏆 Recent Contributions:
+
+| Project | PR | Status |
+|---------|-----|--------|
+| DeepForest | [#1307](link) - HuggingFace regression test | ✅ Merged |
+| DeepForest | [#1317](link) - DDP fix + refactor | 🔄 Review |
+| DeepForest | [#1298](link) - Recall fix | 🔄 Review |
+
+## 🔭 Working On:
+- Object detection for aerial imagery
+- Improving ML pipelines for ecological research
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickysharmasynap/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vickysharma7745) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghunathsharma296@gmail.com) 
