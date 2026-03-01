@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=vickysharma-prog&color=green&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=vickysharma-prog&color=green&style=flat-square" height="40"/>
 
 # 💫 About Me:
 👋 Hi, I’m Vicky sharma—  passionately exploring the exciting intersection of Artificial Intelligence, Machine Learning, and Data Science and developer passionate about open-source and problem-solving.<br><br>💻 I work primarily with Python (Proficient), c++, Java, building things around data science, APIs, and automation using Pandas, NumPy, and modern tooling. I enjoy reading and contributing to real-world codebases and gradually improving systems through clean, well-documented code.<br><br>🌱 Currently focused on:<br>- Open-source contributions <br>- Writing production-quality Python<br>- Understanding large codebases and software design<br>- Data-driven problem solving<br><br>🚀 Interests:<br>Open Source • Backend Development • Data & Analytics • Developer Tools<br><br>📌 Always learning, always shipping, and passionate about **Machine Learning**, **Computer Vision**, and **Open Source**. always open to collaboration.<br>
