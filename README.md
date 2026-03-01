@@ -7,14 +7,6 @@
 - Active contributor at [DeepForest](https://github.com/weecology/DeepForest) — ML for ecological research
 - Exploring object detection & image segmentation pipelines
 
-## 🏆 Recent Contributions:
-
-| Project | PR | Status |
-|---------|-----|--------|
-| DeepForest | [#1307](link) - HuggingFace regression test | ✅ Merged |
-| DeepForest | [#1317](link) - DDP fix + refactor | 🔄 Review |
-| DeepForest | [#1298](link) - Recall fix | 🔄 Review |
-
 ## 🔭 Working On:
 - Object detection for aerial imagery
 - Improving ML pipelines for ecological research
