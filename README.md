@@ -8,8 +8,6 @@
 ## 🔭 Working On:
 - Object detection for aerial imagery
 - Improving ML pipelines for ecological research
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickysharmasynap/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vickysharma7745) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghunathsharma296@gmail.com) 
 ## 📈 Contribution Graph
 
 [![Vicky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vickysharma-prog&bg_color=0d1117&color=ffffff&line=e63946&point=ffd700&area=true&area_color=e6394630&hide_border=true)](https://github.com/vickysharma-prog)
@@ -20,6 +18,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vickysharma-prog&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vickysharmasynap/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vickysharma7745) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghunathsharma296@gmail.com) 
 
 feel free to refer my personal code repos responsibly.
 
